@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Lucas!
+
+I’m a master’s student in astroparticle physics at the Federal University of ABC, and I have been taking courses and trainings to get experience in data science.
+
+I am also passionate about science and I founded a science communication project, Aurora Ciência, with the aim of bringing science from universities to society. You can view the project at [Aurora Ciência](https://auroraciencia.com.br/).
 
 <!--
 **lucas-orfei/lucas-orfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
